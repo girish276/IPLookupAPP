@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="IPLookup">b1a3325447ba61101220690cd36d4330</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>Girish</sys_created_by>
+        <sys_created_on>2023-05-11 08:20:26</sys_created_on>
+        <sys_id>90814760477221101220690cd36d4364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableRESTMessageClient.setStringParameterNoEscape</sys_name>
+        <sys_package display_value="IPLookup" source="x_572135_iplookup">b1a3325447ba61101220690cd36d4330</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">b1a3325447ba61101220690cd36d4330</sys_scope>
+        <sys_update_name>sys_scope_privilege_90814760477221101220690cd36d4364</sys_update_name>
+        <sys_updated_by>Girish</sys_updated_by>
+        <sys_updated_on>2023-05-11 08:20:26</sys_updated_on>
+        <target_name>ScriptableRESTMessageClient.setStringParameterNoEscape</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
